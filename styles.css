@@ -1,0 +1,126 @@
+body {
+  text-align: center;
+  background-color: #2a2720;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #edeacb;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #f37900;
+
+}
+
+footer {
+  color: #edeacb;
+  font-family: sans-serif;
+}
+
+.a {
+  background-image: url(./images/btn1.png);
+  background-size:     cover;                    
+  background-repeat:   no-repeat;
+  background-position: center center; 
+}
+
+.s {
+  background-image: url(./images/btn2.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+.d {
+  background-image: url(./images/btn3.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+.f {
+  background-image: url(./images/btn5.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+.g {
+  background-image: url(./images/btn6.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+.h {
+  background-image: url(./images/btn7.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+.j {
+  background-image: url(./images/btn9.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+
+.k {
+  background-image: url(./images/btn10.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+.l {
+  background-image: url(./images/btn11.png);
+  background-size:     cover;  
+  background-repeat:   no-repeat;                    
+  background-position: center center; 
+}
+
+.text1 {
+  font-size: 3rem;
+  color: #edeacb;
+  font-family: "Arvo", cursive;
+  
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: #dd1201;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #edeacb;
+  opacity: 0.5;
+}
+
+.red {
+  color: #dd1201;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #edeacb;
+  text-shadow: 3px 0 #2a2720;
+  border-radius: 0px;
+  display: inline-block;
+  width: 100px;
+  height: 200px;
+  text-align: center;
+  margin: 0px;
+  background-color: #edeacb;
+}
+
+
