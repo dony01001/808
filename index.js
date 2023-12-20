@@ -45,48 +45,48 @@ document.onkeyup = function (event) {
 function makeSound(key) {
     switch (key) {
         case "a":
-            var crash = new Audio("./sounds/bd1.wav");
-            crash.play();
+            var bd1 = new Audio("./sounds/bd1.wav");
+            bd1.play();
         break;
         
         case "s":
-            var kick = new Audio("./sounds/sd1.wav");
-            kick.play();
+            var sd1 = new Audio("./sounds/sd1.wav");
+            sd1.play();
         break;
             
         case "d":
-            var tom4 = new Audio("./sounds/lowTom1.wav");
-            tom4.play();
+            var lowTom1 = new Audio("./sounds/lowTom1.wav");
+            lowTom1.play();
         break;
             
         case "f":
-            var snare = new Audio("./sounds/midTom1.wav");
-            snare.play();
+            var midTom1 = new Audio("./sounds/midTom1.wav");
+            midTom1.play();
         break;
             
         case "g":
-            var tom1 = new Audio("./sounds/hiTom1.wav");
-            tom1.play();
+            var hiTom1 = new Audio("./sounds/hiTom1.wav");
+            hiTom1.play();
         break;
             
         case "h":
-            var tom2 = new Audio("./sounds/clap1.wav");
-            tom2.play();
+            var clap1 = new Audio("./sounds/clap1.wav");
+            clap1.play();
         break;
             
         case "j":
-            var tom3 = new Audio("./sounds/cowbell1.wav");
-            tom3.play();
+            var cowbell1 = new Audio("./sounds/cowbell1.wav");
+            cowbell1.play();
         break;
         
         case "k":
-            var tom3 = new Audio("./sounds/closedHat1.wav");
-            tom3.play();
+            var closedHat1 = new Audio("./sounds/closedHat1.wav");
+            closedHat1.play();
         break;
         
         case "l":
-            var tom3 = new Audio("./sounds/openHat1.wav");
-            tom3.play();
+            var openHat1 = new Audio("./sounds/openHat1.wav");
+            openHat1.play();
         break;
         
     default:
